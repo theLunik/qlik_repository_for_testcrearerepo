@@ -1,0 +1,16 @@
+{
+  "qInfos": [
+    {
+      "qId": "1e5680e8-05a4-4281-905c-90fc2a1ad412",
+      "qType": "appprops"
+    },
+    {
+      "qId": "LoadModel",
+      "qType": "LoadModel"
+    },
+    {
+      "qId": "_gitoqlikLastCommitId",
+      "qType": "_gitoqlikLastCommitId"
+    }
+  ]
+}
